@@ -1,1 +1,1 @@
-# C-Tasks
+This are the tasks from C# course
