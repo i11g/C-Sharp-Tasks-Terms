@@ -1,4 +1,4 @@
-# Programming Fundamentals
+# Java Fundamentals 
 This repository contains my solutions and homeworks included in Telerik Java Fundamentals course. 
 
 
